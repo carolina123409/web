@@ -1,0 +1,13 @@
+p{color: black;
+    margin: 5; 
+    padding: 3;
+    font-size: 4 rem;
+    font-style: cursive;
+ }
+ 
+ .imagen img {
+     width: 150px;
+     height: 150px;
+     border-radius: 50%;
+     border: 2px solid #ddd;;
+ }
